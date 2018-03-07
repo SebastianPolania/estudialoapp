@@ -1,2 +1,2 @@
-# estududialoapp
+# estudialoapp
 Android app - Estudialo
